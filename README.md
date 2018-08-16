@@ -32,4 +32,4 @@ I mainly made this tool to fix random avatar movement in VRChat but it also can 
 * If your avatar started randomly moving left, decrease Deadzone -X value.
 * If your avatar started randomly moving right, increase Deadzone +X value.
 * If your avatar started randomly rotationg left, decrease Deadzone -X value of right controller.
-If your avatar started randomly rotationg right, increase Deadzone +X value of right controller.
+* If your avatar started randomly rotationg right, increase Deadzone +X value of right controller.
