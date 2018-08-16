@@ -23,3 +23,13 @@ This tool will allow you to adjust Oculus Touch thumbsticks deadzones. It may be
 * Reset values - reload deadzone values from calibration file
 * Save - save changes to calibration file
 * Restart OVRService - restart OVRService to apply calibration changes. Oculus desktop software should be closed prior restarting.
+
+## Examples
+
+I mainly made this tool to fix random avatar movement in VRChat but it also can be used for other games.
+If your avatar started randomly moving forward when you just slightly touching thumbstick, increase Deadzone +Y value.
+If your avatar started randomly moving backward, decrease Deadzone -Y value.
+If your avatar started randomly moving left, decrease Deadzone -X value.
+If your avatar started randomly moving right, increase Deadzone +X value.
+If your avatar started randomly rotationg left, decrease Deadzone -X value of right controller.
+If your avatar started randomly rotationg right, increase Deadzone +X value of right controller.
