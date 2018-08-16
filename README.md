@@ -8,6 +8,7 @@ This tool will allow you to adjust Oculus Touch thumbsticks deadzones. It may be
 
 ## Usage
 
+* Extract archive anywhere
 * Close all VR applications, SteamVR and Oculus desktop software if running
 * Launch the tool. It will require Administrator rights for restarting OVRService
 * Select Touch controller to calibrate in dropdown menu
