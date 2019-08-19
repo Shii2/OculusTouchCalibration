@@ -1,6 +1,7 @@
 # Oculus Touch Deadzone Calibration Tool
 
 This tool will allow you to adjust Oculus Touch thumbsticks deadzones. It may be useful if thumbstick started activating at times when it should not.
+Compatible only with original Oculus Rift CV1 controllers. Tool not tested and probably won't work with Rift S/Oculus Quest controllers.
 
 ![Application main window](https://i.imgur.com/iNPT9Xp.png)
 
